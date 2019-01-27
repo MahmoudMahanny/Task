@@ -24,7 +24,8 @@ namespace QuestionSystem.Models.DbModel
             this.AspNetRoles = new HashSet<AspNetRoles>();
         }
     
-      [Key]  public string Id { get; set; }
+        [Key]
+        public string Id { get; set; }
         public string Email { get; set; }
         public bool EmailConfirmed { get; set; }
         public string PasswordHash { get; set; }

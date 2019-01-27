@@ -15,7 +15,8 @@ namespace QuestionSystem.Models.DbModel
     
     public partial class Comments
     {
-        [Key]  public int CommentID { get; set; }
+        [Key]
+        public int CommentID { get; set; }
         public string Comment { get; set; }
         public int QuestionId { get; set; }
         public string UserID { get; set; }

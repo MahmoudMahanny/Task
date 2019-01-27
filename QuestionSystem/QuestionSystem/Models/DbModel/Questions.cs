@@ -19,8 +19,9 @@ namespace QuestionSystem.Models.DbModel
         {
             this.Comments = new HashSet<Comments>();
         }
-    
-       [Key] public int QuestionId { get; set; }
+
+        [Key]
+        public int QuestionId { get; set; }
         public string Question { get; set; }
         public string UserId { get; set; }
     
