@@ -247,6 +247,10 @@
     <Compile Include="Models\QuestionSystemContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
+    <Compile Include="ViewModel\AllDataVM.cs" />
+    <Compile Include="ViewModel\CommentVM.cs" />
+    <Compile Include="ViewModel\QuestionCommentsVM.cs" />
+    <Compile Include="ViewModel\QuestionVM.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
