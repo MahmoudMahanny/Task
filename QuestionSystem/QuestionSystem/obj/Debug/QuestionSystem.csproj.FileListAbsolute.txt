@@ -193,4 +193,3 @@ C:\Users\Mahanny\Documents\GitHub\Task\QuestionSystem\QuestionSystem\obj\Debug\Q
 C:\Users\Mahanny\Documents\GitHub\Task\QuestionSystem\QuestionSystem\obj\Debug\QuestionSystem.csproj.GenerateResource.Cache
 C:\Users\Mahanny\Documents\GitHub\Task\QuestionSystem\QuestionSystem\obj\Debug\QuestionSystem.dll
 C:\Users\Mahanny\Documents\GitHub\Task\QuestionSystem\QuestionSystem\obj\Debug\QuestionSystem.pdb
-C:\Users\Mahanny\Documents\GitHub\Task\QuestionSystem\QuestionSystem\obj\Debug\QuestionSystem.csprojResolveAssemblyReference.cache

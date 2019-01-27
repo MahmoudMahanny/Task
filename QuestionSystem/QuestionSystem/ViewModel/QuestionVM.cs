@@ -7,6 +7,8 @@ namespace QuestionSystem.ViewModel
 {
     public class QuestionVM
     {
+        public int QuestionId { get; set; }
         public string Question { get; set; }
+        public string UserId { get; set; }
     }
 }
